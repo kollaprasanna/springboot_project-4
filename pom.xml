@@ -11,6 +11,7 @@
 	<groupId>com.cyr.springboot</groupId>
 	<artifactId>springboot_project-4</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<package>war</package>
 	<name>springboot_project-4</name>
 	<description>springboot_project-4</description>
 	<properties>
